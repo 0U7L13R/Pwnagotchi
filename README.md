@@ -58,6 +58,7 @@ The original image I used (jayofelony) had limited bluetooth settings, and I not
 
 Make sure to have the following in your config.toml - ios or android respectively
 
+```ini
 main.plugins.bt-tether.enabled = true
 main.plugins.bt-tether.devices.android-phone.enabled = true
 main.plugins.bt-tether.devices.android-phone.search_order = 1
@@ -80,5 +81,6 @@ main.plugins.bt-tether.devices.ios-phone.scantime = 20
 main.plugins.bt-tether.devices.ios-phone.max_tries = 0
 main.plugins.bt-tether.devices.ios-phone.share_internet = false
 main.plugins.bt-tether.devices.ios-phone.priority = 999
+```
 
 ---
