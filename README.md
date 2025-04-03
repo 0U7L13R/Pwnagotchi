@@ -58,27 +58,27 @@ The original image I used (jayofelony) had limited bluetooth settings, and I not
 
 Make sure to have the following in your config.toml - ios or android respectively
 
->main.plugins.bt-tether.enabled = true
->main.plugins.bt-tether.devices.android-phone.enabled = true
->main.plugins.bt-tether.devices.android-phone.search_order = 1
->main.plugins.bt-tether.devices.android-phone.mac = ""
->main.plugins.bt-tether.devices.android-phone.ip = "192.168.44.44"
->main.plugins.bt-tether.devices.android-phone.netmask = 24
->main.plugins.bt-tether.devices.android-phone.interval = 1
->main.plugins.bt-tether.devices.android-phone.scantime = 15
->main.plugins.bt-tether.devices.android-phone.max_tries = 6
->main.plugins.bt-tether.devices.android-phone.share_internet = true
->main.plugins.bt-tether.devices.android-phone.priority = 1
+main.plugins.bt-tether.enabled = true
+main.plugins.bt-tether.devices.android-phone.enabled = true
+main.plugins.bt-tether.devices.android-phone.search_order = 1
+main.plugins.bt-tether.devices.android-phone.mac = ""
+main.plugins.bt-tether.devices.android-phone.ip = "192.168.44.44"
+main.plugins.bt-tether.devices.android-phone.netmask = 24
+main.plugins.bt-tether.devices.android-phone.interval = 1
+main.plugins.bt-tether.devices.android-phone.scantime = 15
+main.plugins.bt-tether.devices.android-phone.max_tries = 6
+main.plugins.bt-tether.devices.android-phone.share_internet = true
+main.plugins.bt-tether.devices.android-phone.priority = 1
 
->main.plugins.bt-tether.devices.ios-phone.enabled = false
->main.plugins.bt-tether.devices.ios-phone.search_order = 2
->main.plugins.bt-tether.devices.ios-phone.mac = ""
->main.plugins.bt-tether.devices.ios-phone.ip = "175.20.10.6"
->main.plugins.bt-tether.devices.ios-phone.netmask = 24
->main.plugins.bt-tether.devices.ios-phone.interval = 5
->main.plugins.bt-tether.devices.ios-phone.scantime = 20
->main.plugins.bt-tether.devices.ios-phone.max_tries = 0
->main.plugins.bt-tether.devices.ios-phone.share_internet = false
->main.plugins.bt-tether.devices.ios-phone.priority = 999
+main.plugins.bt-tether.devices.ios-phone.enabled = false
+main.plugins.bt-tether.devices.ios-phone.search_order = 2
+main.plugins.bt-tether.devices.ios-phone.mac = ""
+main.plugins.bt-tether.devices.ios-phone.ip = "175.20.10.6"
+main.plugins.bt-tether.devices.ios-phone.netmask = 24
+main.plugins.bt-tether.devices.ios-phone.interval = 5
+main.plugins.bt-tether.devices.ios-phone.scantime = 20
+main.plugins.bt-tether.devices.ios-phone.max_tries = 0
+main.plugins.bt-tether.devices.ios-phone.share_internet = false
+main.plugins.bt-tether.devices.ios-phone.priority = 999
 
 ---
