@@ -4,7 +4,7 @@
 
 ## Background
 I am currently in the processe of writing this documentation (like with most of my projects).
-I always wanted to make one of these after first hearing about it. Once I got my hands on a 3D printer I immediately bought the parts, the case was the first thing I ever printed (besides benchy's of course). This was a fun project, learned a lot about how Wifi auth works, this guy now sits on my PC case happy as can be.
+I always wanted to make one of these after first hearing about it. Once I got my hands on a 3D printer I immediately bought the parts, the case was the first thing I ever printed (besides benchy's of course). This was a fun project, learned a lot about how Wifi auth work. Ran into more issues than I antipated so I aptly named him "Pain in the ass" or "Pita" who now sits on my PC case happy as can be.
 
 ---
 
