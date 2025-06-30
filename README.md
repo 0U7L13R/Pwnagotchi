@@ -1,5 +1,10 @@
 # Pwnagotchi Project-Writeup
-**This is NOT a Pwnagotchi guide.**
+
+---
+## Background
+I am currently in the processe of writing this documentation (like with most of my projects).
+I always wanted to make one of these after first hearing about it. Once I got my hands on a 3D printer I immediately bought the parts, the case was the first thing I ever printed (besides benchy's of course). This was a fun project, learned a lot about wifi and it's always nice to get terminal practice. This guy now sits on my PC case happy as can be.
+---
 
 This is my personal documentation for building and running my own Pwnagotchi, the hardware I used, how I set it up, which plugins I added, and what I learned along the way.
 
