@@ -1,4 +1,4 @@
-# Pwnagotchi Project-Writeup
+# Pwnagotchi Writeup
 
 ---
 
