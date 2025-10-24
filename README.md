@@ -5,9 +5,9 @@ I am in the process of finishing this documentation.
 
 This is my personal documentation for building and running my a Pwnagotchi, the hardware I used, set up,  plugins, and what I learned along the way.
 
-First, I recomend learning how handshakes in the WPA/WPA2 protocol work, which I attempt to explain [here](WifiHandshakes.md).
+First, learn how handshakes in the WPA/WPA2 protocol work, which I attempt to explain [here](WifiHandshakes.md).
 
-![alt text](images/Build.jpg)
+![](assets/Build.jpg)
 ---
 
 ## :warning: Disclaimer :warning:
@@ -27,7 +27,7 @@ I do not condone or support any malicious activity using the tools or techniques
 ---
 
 # 3d Printed case
-![](images/PrintedParts.jpg)
+![](assets/PrintedParts.jpg)
 
 ---
 
