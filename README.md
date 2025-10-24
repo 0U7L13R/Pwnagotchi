@@ -1,23 +1,17 @@
 # Pwnagotchi Writeup
-
 ---
-
 ## Background
-I am currently in the processe of writing this documentation (like with most of my projects).
-I always wanted to make one of these after first hearing about it. Once I got my hands on a 3D printer I immediately bought the parts, the case was the first thing I ever printed (besides benchy's of course). This was a fun project, learned a lot about how Wifi auth work. Ran into more issues than I antipated so I aptly named him "Pain in the ass" or "Pita" who now sits on my PC case happy as can be.
+I am in the process of finishing this documentation.
 
----
-
-This is my personal documentation for building and running my own Pwnagotchi, the hardware I used, how I set it up, which plugins I added, and what I learned along the way.
+This is my personal documentation for building and running my a Pwnagotchi, the hardware I used, set up,  plugins, and what I learned along the way.
 
 First, I recomend learning how handshakes in the WPA/WPA2 protocol work, which I attempt to explain [here](WifiHandshakes.md).
 
 ![alt text](images/Build.jpg)
-
 ---
 
 ## :warning: Disclaimer :warning:
-This project is intended for **educational purposes only**.
+This project is intended for "educational purposes only."
 
 Do not use your Pwnagotchi—or any similar tools—on networks you do not own or have explicit permission to test. Unauthorized interception of wireless communications may be illegal and unethical.
 
@@ -31,13 +25,9 @@ I do not condone or support any malicious activity using the tools or techniques
 - **Case**: PicoProject 3d Printed Case
 
 ---
-# Steps
-## Windows driver
-# Imaging
-# ?
+
 # 3d Printed case
 ![](images/PrintedParts.jpg)
-
 
 ---
 
@@ -59,7 +49,7 @@ I do not condone or support any malicious activity using the tools or techniques
 
 ## Issues/Fixes
 ##### BT-Tethering
-Only issue I encounted was getting bluetooth to proplerly pair to my phone. After scouring threads and forums I accidently came across the fix.
+Only issue I encounted was getting bluetooth to proplerly pair to my phone. After scouring threads and forums I realized the fix.
 
 The original image I used (jayofelony) had limited bluetooth settings, and I noticed that other people's config had more options listed, though these people were still reporting issues. I simply added the options to my config, filled them out and *voila*.
 
